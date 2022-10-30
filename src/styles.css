@@ -1,3 +1,8 @@
+::placeholder {
+    color: #dfcef6;
+    opacity: 1;
+}
+
 .app {
     font-family: 'Gaegu', cursive;
     font-weight: bold;
@@ -94,6 +99,19 @@ input[type="submit"]:hover {
     margin: 16px;
     width: 650px;
 }
+
+.result-container {
+    position: relative;
+    top: 10%;
+    left: 13%;
+    font-size: 25px;
+    align-items: center;
+    display: flex;
+    gap: 40px;
+    margin: 16px;
+    width: 650px;
+}
+
 
 .endingleft{
     font-size: 18px;
